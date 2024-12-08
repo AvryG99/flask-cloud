@@ -1,0 +1,8 @@
+# Ignore the llmenv directory
+env/
+
+tempCodeRunnerFile.py
+# Ignore the agent_log.log file
+agent_log.log
+
+__pycache__/
